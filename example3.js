@@ -1,1 +1,1 @@
-console.log("Bienvenido a COCHA!");
+console.log("Bienvenido a SANTA CRUZ");
