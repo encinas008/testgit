@@ -21,6 +21,7 @@ lista numerica
 1. One
 2. Two
 3. Three
+4. Four
 
 
 * Start a line with a star
