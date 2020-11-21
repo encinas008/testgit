@@ -37,7 +37,7 @@ lista numerica
 
 SQL SERVER 2020
 NPM 10+
-NODE 8
+NODE 9
 
 npm install
 npm start
@@ -47,3 +47,5 @@ http://localhost:4200
 
 Hello World
 Hola mundo
+HOla desde branch T-002
+
