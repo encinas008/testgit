@@ -33,7 +33,7 @@ lista numerica
 - SQL SERVER 2016
 - ANGULAR 12
 - NPM
-- NODE 
+- NODE
 
 SQL SERVER 2020
 NPM 10+
