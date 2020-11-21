@@ -37,7 +37,7 @@ lista numerica
 
 SQL SERVER 2020
 NPM 10+
-NODE 8
+NODE 9
 
 npm install
 npm start
