@@ -1,7 +1,7 @@
 # Test project GIT
 ## subtitle
 ### Description
-- example 1
+- example 1.2
 - example 2
 - example 3
 
