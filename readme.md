@@ -21,6 +21,7 @@ lista numerica
 1. One
 2. Two
 3. Three
+4. Four
 
 
 * Start a line with a star
@@ -36,7 +37,7 @@ lista numerica
 
 SQL SERVER 2020
 NPM 10+
-NODE 8
+NODE 9
 
 npm install
 npm start
@@ -45,3 +46,6 @@ visitar
 http://localhost:4200
 
 Hello World
+Hola mundo
+HOla desde branch T-002
+
