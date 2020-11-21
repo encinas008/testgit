@@ -31,7 +31,7 @@ lista numerica
 
 - BASE DATOS
 - SQL SERVER 2016
-- ANGULAR 8
+- ANGULAR 10
 - NPM
 - NODE 
 
